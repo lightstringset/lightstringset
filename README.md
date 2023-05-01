@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lightstringset
 - 👀 I’m interested in machine learning and neuroscience
 - 🌱 I’m currently learning computational neuroscience
-- 💞️ I’m looking to collaborate on TinyML Projects
+- 💞️ I’m looking to collaborate on TinyML and Cybersecurity Projects
 - 📫 How to reach me:
   - Email: lightstring.set@gmail.com
   - WhatsApp: +25073092205
