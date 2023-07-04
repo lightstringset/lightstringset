@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lightstringset
-- 👀 I’m interested in machine learning and neuroscience
+- 👀 I’m interested in machine learning, neuroscience and cybersecurity
 - 🌱 I’m currently learning computational neuroscience
 - 💞️ I’m looking to collaborate on TinyML and Cybersecurity Projects
 - 📫 How to reach me:
